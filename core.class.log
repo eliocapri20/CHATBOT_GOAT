@@ -1,0 +1,39 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '59169912127@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F03528282670B21C03',
+    participant: undefined
+  },
+  messageTimestamp: 1732120028,
+  pushName: 'Developer',
+  broadcast: false,
+  message: Message {
+    conversation: 'botones',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'botones',
+  from: '59169912127'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a2aefc2b-9b10-463f-a407-15455dd0a31d',
+  keyword: 'key_00c3d5f6-0896-4b84-bec4-3d5948c890ab',
+  answer: 'estos son los botones',
+  options: {
+    media: null,
+    buttons: [ [Object] ],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e88ae4376d6499cf0d38a1a5e1572df6'
+}

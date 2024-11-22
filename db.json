@@ -1,0 +1,33 @@
+[
+  {
+    "ref": "e23a66fa-c5f6-4f0f-8702-9255dc6cff46",
+    "keyword": "534ffe0943e611a9f04fd1ee54da5666",
+    "answer": "botones",
+    "options": {},
+    "from": "59169912127",
+    "refSerialize": "3177bb7cd49c23bee864219421d713b0"
+  },
+  {
+    "ref": "ans_a2aefc2b-9b10-463f-a407-15455dd0a31d",
+    "keyword": "key_00c3d5f6-0896-4b84-bec4-3d5948c890ab",
+    "answer": "estos son los botones",
+    "options": {
+      "media": null,
+      "buttons": [
+        {
+          "body": "menu"
+        }
+      ],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "e88ae4376d6499cf0d38a1a5e1572df6",
+    "from": "59169912127"
+  }
+]
